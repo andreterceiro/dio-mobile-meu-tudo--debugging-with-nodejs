@@ -26,3 +26,7 @@ As a second last step teacher suggested to create the file src/index.ts with thi
 ```
 console.log("ola");
 ```
+
+As the last step teacher suggested to create the script **start:dev** to initialize the application:
+
+![script start:dev](images/script-start-dev.png)
