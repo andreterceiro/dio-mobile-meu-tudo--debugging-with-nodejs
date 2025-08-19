@@ -6,3 +6,13 @@
 # Slides related to the classes
 
 [link](https://hermes.dio.me/files/assets/fa353c56-279e-4fe8-a4d3-ef83fd0c3439.pptx)
+
+
+# Steps of the first test
+
+```sh
+npm init -y
+npm install -D typescript tsup tsx
+echo "node_modules" > .gitignore
+npx tsc --init
+```
