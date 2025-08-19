@@ -18,3 +18,5 @@ npx tsc --init
 ```
 
 This will create the file tsconfig.json. Please see [this link](https://github.com/andreterceiro/dio-mobile-meu-tudo--how-to-configure-typescript-in-projects-node-js) to see what configurations you have to put in this file.
+
+Teacher also suggested to add the configuration **type: "module"** to the file package.json.
