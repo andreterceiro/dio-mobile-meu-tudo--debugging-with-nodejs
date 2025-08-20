@@ -35,3 +35,10 @@ As the last step teacher suggested to create the script **start:dev** to initial
 # Running an application in debug mode through package.json (in VSCode)
 
 ![debugging an application through package.json](images/debugging-an-application-through-package-json.png)
+
+
+# Javascript debug terminal box (VSCode)
+
+Is a box in VSCode:
+
+![javascript debug terminal](images/javascript-debug-terminal-box.png)
