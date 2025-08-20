@@ -30,3 +30,8 @@ console.log("ola");
 As the last step teacher suggested to create the script **start:dev** to initialize the application:
 
 ![script start:dev](images/script-start-dev.png)
+
+
+# Running an application in debug mode through package.json (in VSCode)
+
+![debbugging an application through package.json](images/debbugging-an-application-through-package-json.png)
