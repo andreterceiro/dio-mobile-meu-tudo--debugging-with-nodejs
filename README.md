@@ -42,3 +42,48 @@ As the last step teacher suggested to create the script **start:dev** to initial
 Is a box in VSCode:
 
 ![javascript debug terminal](images/javascript-debug-terminal-box.png)
+
+
+# Problem with workspace not trusted in Windows
+
+I had this problem in Windows and Blackbox AI suggested me:
+
+```
+O usuário está com problema no VSCode onde o workspace está configurado para "não confiar" e isso está impedindo o debugging. Preciso entender como resolver isso.
+
+A questão é sobre configuração do VSCode para confiar no workspace quando ele está em modo não confiável. Isso é uma configuração de segurança do VSCode que restringe certas funcionalidades como debugging quando o workspace não é confiável.
+
+Não preciso usar search_code aqui pois o número de arquivos é baixo (abaixo de 10) e a questão é mais sobre configuração do VSCode do que sobre código específico.
+
+Para configurar o VSCode para confiar no workspace quando ele está em modo não confiável, siga estes passos:
+
+Método 1: Via Interface do VSCode
+Barra de notificação amarela: Quando você abre o workspace, deve aparecer uma barra amarela no topo com a mensagem "This workspace is not trusted"
+Clique no botão "Trust" ou "Trust Workspace"
+Confirme na caixa de diálogo que aparecer
+
+Método 2: Via Command Palette
+Pressione Ctrl+Shift+P (Windows/Linux) ou Cmd+Shift+P (Mac)
+Digite: Workspace: Trust
+Selecione "Workspace: Trust Window" ou "Workspace: Trust Workspace"
+
+Método 3: Via Configurações
+Pressione Ctrl+, para abrir as configurações
+Procure por "trust"
+Em "Security › Workspace › Trust: Enabled", certifique-se de que está habilitado
+Clique no ícone de engrenagem e selecione "Trust Workspace"
+
+Método 4: Arquivo de Configuração
+Crie ou edite o arquivo .vscode/settings.json na raiz do seu projeto:
+{
+    "security.workspace.trust.enabled": true
+}
+
+Verificação
+Após configurar:
+
+Reinicie o VSCode
+Verifique se a barra amarela desapareceu
+Tente iniciar o debugging novamente (F5 ou Ctrl+F5)
+Se ainda tiver problemas, verifique se há alguma extensão que possa estar interferindo ou se há políticas de segurança da empresa que impedem a alteração dessa configuração.
+```
