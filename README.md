@@ -160,3 +160,5 @@ As you can see in this previous image, VSCode creates a basic **launch.json** fi
 Teacher suggested to clean all content in the configurations array. The he recommended to click in the button "add configurations" as you can see in the next image:
 
 ![add configurations button](images/add-configurations-button.png)
+
+And then teacher suggested us to click in the option "Node.js: Attach to Process".
