@@ -99,3 +99,5 @@ These tips did not work for me, I think that occurred because the network polici
 # Seeing variables values
 
 ![seeing variables values](images/seeing-variables%20values.png)
+
+A comment: if you have a breakpoint, you can see the variable value until this breakpoint.
