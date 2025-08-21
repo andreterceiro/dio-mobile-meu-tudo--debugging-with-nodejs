@@ -113,3 +113,5 @@ A comment: if you have a breakpoint, you can see the variable value until this b
 You can use the menu watch if you want to surveillance a variable.
 
 ![watch block](images/watch-block.png)
+
+As you can see in the previous image, you can watch a function with this block, but also variables.
