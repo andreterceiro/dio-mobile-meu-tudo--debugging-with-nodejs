@@ -117,3 +117,8 @@ You can use the menu watch if you want to surveillance a variable.
 As you can see in the previous image, you can watch a function with this block, but also variables.
 
 Another point: in this block, on right of him, you have a "+" button to add something to the surveillance.
+
+
+# Call stack
+
+![call stack](images/call-stack.png)
