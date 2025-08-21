@@ -87,3 +87,5 @@ Verifique se a barra amarela desapareceu
 Tente iniciar o debugging novamente (F5 ou Ctrl+F5)
 Se ainda tiver problemas, verifique se há alguma extensão que possa estar interferindo ou se há políticas de segurança da empresa que impedem a alteração dessa configuração.
 ```
+
+These tips did not work for me, I think that occurred because the network policies applied by the company, but I will try soon at home. 
