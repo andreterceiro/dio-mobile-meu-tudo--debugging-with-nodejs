@@ -106,3 +106,8 @@ A comment: if you have a breakpoint, you can see the variable value until this b
 # Global block
 
 ![global block](images/global-block.png)
+
+
+# Watch block
+
+You can use the menu watch if you want to surveillance a variable.
