@@ -129,3 +129,8 @@ As you expect, you can identify in this block the order of the functions called 
 # Loaded scripts
 
 ![loaded scripts](images/loaded-scripts.png)
+
+
+# Breakpoints
+
+![breakpoints](images/breakpoints.png)
