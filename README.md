@@ -124,3 +124,8 @@ Another point: in this block, on right of him, you have a "+" button to add some
 ![call stack](images/call-stack.png)
 
 As you expect, you can identify in this block the order of the functions called in the execution.
+
+
+# Loaded scripts
+
+![loaded scripts](images/loaded-scripts.png)
