@@ -151,4 +151,8 @@ As you can see in the top left part of the image, when debugging an application 
 
 In this previous image teacher said us to click inthe link (is not a button, is a link, pay attention to the image) "create a launch.json file".
 
-And then teacher said uds to click in the Node.JS option.
+And then teacher said us to click in the Node.JS option.
+
+![basic launch json file](images/basic-launch-json-file.png)
+
+As you can see in this previous image, VSCode creates a basic **launch.json** file.
