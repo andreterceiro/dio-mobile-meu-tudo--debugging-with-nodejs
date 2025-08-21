@@ -148,3 +148,5 @@ As you can see in the top left part of the image, when debugging an application 
 # Debug configuration
 
 ![debug configuration](images/debug-configration.png)
+
+In this previous image teacher said us to click inthe link (is not a button, is a link, pay attention to the image) "create a launch.json file".
