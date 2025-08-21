@@ -162,3 +162,5 @@ Teacher suggested to clean all content in the configurations array. The he recom
 ![add configurations button](images/add-configurations-button.png)
 
 And then teacher suggested us to click in the option "Node.js: Attach to Process".
+
+A comment: the "launch.json" file controls the behaviour of VSCode when debugging an application.
