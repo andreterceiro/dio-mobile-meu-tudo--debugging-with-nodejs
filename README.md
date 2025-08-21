@@ -156,3 +156,7 @@ And then teacher said us to click in the Node.JS option.
 ![basic launch json file](images/basic-launch-json-file.png)
 
 As you can see in this previous image, VSCode creates a basic **launch.json** file.
+
+Teacher suggested to clean all content in the configurations array. The he recommended to click in the button "add configurations" as you can see in the next image:
+
+![add configurations button](images/add-configurations-button.png)
