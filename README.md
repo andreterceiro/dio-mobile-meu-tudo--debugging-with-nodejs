@@ -169,3 +169,6 @@ A comment: the "launch.json" file controls the behaviour of VSCode when debuggin
 # Running in debug mode when attaching to process
 
 ![running in attach to process](images/running-in-attach-to-process.png)
+
+As you could see in the image, teacher suggested to click in "Run Script: start:dev". I do not know if this makes a lot of sense because we configured 
+the option "Attach by Process ID", I need to explore better the VSCode debug mode in future.
