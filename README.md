@@ -143,3 +143,8 @@ These numbers involved by a red circle refer the line of the breakpoint in a fil
 ![flow control](images/flow-control.png)
 
 As you can see in the top left part of the image, when debugging an application you have controls to control the flow of the application.
+
+
+# Debug configuration
+
+![debug configuration](images/debug-configration.png)
