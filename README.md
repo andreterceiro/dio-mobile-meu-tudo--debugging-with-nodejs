@@ -134,3 +134,5 @@ As you expect, you can identify in this block the order of the functions called 
 # Breakpoints
 
 ![breakpoints](images/breakpoints.png)
+
+These numbers involved by a red circle refer the line of the breakpoint in a file.
