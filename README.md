@@ -94,3 +94,8 @@ These tips did not work for me, I think that occurred because the network polici
 # Left debugging bar
 
 ![left debugging bar](images/left-debugging-bar.png)
+
+
+# Seeing variables values
+
+![seeing variables values](images/seeing-variables%20values.png)
