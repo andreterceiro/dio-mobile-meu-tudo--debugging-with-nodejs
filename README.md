@@ -122,3 +122,5 @@ Another point: in this block, on right of him, you have a "+" button to add some
 # Call stack
 
 ![call stack](images/call-stack.png)
+
+As you expect, you can identify in this block the order of the functions called in the execution.
