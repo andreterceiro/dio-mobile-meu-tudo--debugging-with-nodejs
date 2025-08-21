@@ -164,3 +164,5 @@ Teacher suggested to clean all content in the configurations array. The he recom
 And then teacher suggested us to click in the option "Node.js: Attach to Process".
 
 A comment: the "launch.json" file controls the behaviour of VSCode when debugging an application.
+
+"Attach to process" means that VSCode will find a process running a Node.JS application and will attach a debugger to it.
