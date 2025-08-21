@@ -89,3 +89,8 @@ Se ainda tiver problemas, verifique se há alguma extensão que possa estar inte
 ```
 
 These tips did not work for me, I think that occurred because the network policies applied by the company, but I will try soon at home. 
+
+
+# Left debugging bar
+
+![left debugging bar](images/left-debugging-bar.png)
